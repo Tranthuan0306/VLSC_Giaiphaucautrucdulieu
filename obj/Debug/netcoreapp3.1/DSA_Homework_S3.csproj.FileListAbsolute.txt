@@ -1,0 +1,13 @@
+D:\VLSc_Data\DSA_Homework_S3\bin\Debug\netcoreapp3.1\DSA_Homework_S3.exe
+D:\VLSc_Data\DSA_Homework_S3\bin\Debug\netcoreapp3.1\DSA_Homework_S3.deps.json
+D:\VLSc_Data\DSA_Homework_S3\bin\Debug\netcoreapp3.1\DSA_Homework_S3.runtimeconfig.json
+D:\VLSc_Data\DSA_Homework_S3\bin\Debug\netcoreapp3.1\DSA_Homework_S3.runtimeconfig.dev.json
+D:\VLSc_Data\DSA_Homework_S3\bin\Debug\netcoreapp3.1\DSA_Homework_S3.dll
+D:\VLSc_Data\DSA_Homework_S3\bin\Debug\netcoreapp3.1\DSA_Homework_S3.pdb
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.csprojAssemblyReference.cache
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.AssemblyInfoInputs.cache
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.AssemblyInfo.cs
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.csproj.CoreCompileInputs.cache
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.dll
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.pdb
+D:\VLSc_Data\DSA_Homework_S3\obj\Debug\netcoreapp3.1\DSA_Homework_S3.genruntimeconfig.cache
